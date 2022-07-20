@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "D5MmulJInVCDqRLtq8oJ2UC2WlByio0NdpJLc8GMGto2z5fNIJ2XkhmmPrDvBYecAePm7Cjndz/l0vpQ9K5XKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MZK\\source\\repos\\BarcodeGen\\BarcodeGen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MZK\\.nuget\\packages\\aspose.barcode\\22.6.0\\aspose.barcode.22.6.0.nupkg.sha512",
+    "C:\\Users\\MZK\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\MZK\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\MZK\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\MZK\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
